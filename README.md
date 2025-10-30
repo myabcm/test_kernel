@@ -57,5 +57,6 @@ If you set **CalcSparsityThreshold** to 0 or do not add the parameter, the stand
 
 Please not that the algorithm selection is dynamic and will be evaluated for every module inside the model being calculated.
 
+If you want to test the Calculation Engine using the console, you also need to change the **Abm.Server.CalcEngine.Console.exe.config** configuration file
 Finally, this preliminary testing kernel is ony used for standard calculation and not for fact generation.
 
