@@ -1,4 +1,4 @@
-# Testing Kernel with support for large reciprocal modules (teste)
+# Testing Kernel with support for large reciprocal modules
 
 
 ## Summary
