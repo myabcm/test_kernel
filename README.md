@@ -27,7 +27,7 @@ The kernel libraries in this package implement a special algorithm that can solv
    
 3. Locate and edit the configuration file **Abm.Server.CalcEngine.Service.exe.config**
    
-4. Inside the <appSettings></appSettings> section of the configuration file, add the following line just after the opening tag <appSettings>
+4. Inside the **appSettings** section of the configuration file, add the following line just after the opening tag <appSettings>
 
    ```xml
    <add key="CalcSparsityThreshold" value="90" />
